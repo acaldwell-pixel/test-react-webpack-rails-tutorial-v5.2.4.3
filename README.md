@@ -1,24 +1,3 @@
-# README
+## Testing react_on_rails in Rails 5
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+`rails _5.2.4.3_ new --database=postgresql --skip-sprockets -J --skip-test --no-skip-turbolinks test-react-webpack-rails-tutorial-v5.2.4.3`
